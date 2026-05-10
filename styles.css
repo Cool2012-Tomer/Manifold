@@ -304,6 +304,7 @@ body {
 .Main_testimonial_boss {
   padding-left: 20px;
   padding-right: 20px;
+  margin-top: 110px;
 }
 .red_svg {
   width: 56px;
@@ -469,6 +470,7 @@ body {
   .Main_testimonial_boss {
     padding-left: 0;
     padding-right: 0;
+    margin-top: 0;
   }
   .header_page_options {
     display: flex;
